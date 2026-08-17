@@ -1,23 +1,27 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/TheKingBucket001/txtoi/main/assets/icon.svg" width="96" alt="文本选择菜单控制图标" />
+
 # 文本选择菜单控制
 
-**为 ColorOS 16 精简文字选择菜单。**
+**ColorOS 16 的文字选择菜单控制模块**
 
-[![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.github.selectionmenucontrol?display_name=tag&label=release&color=brightgreen)](https://github.com/Xposed-Modules-Repo/io.github.selectionmenucontrol/releases/latest)
+[![Release](https://img.shields.io/github/v/release/TheKingBucket001/txtoi?display_name=tag&label=release&color=brightgreen)](https://github.com/TheKingBucket001/txtoi/releases/latest)
 [![CI](https://github.com/TheKingBucket001/txtoi/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/TheKingBucket001/txtoi/actions/workflows/android.yml)
 [![License](https://img.shields.io/badge/license-GPL--3.0--only-blue.svg)](https://github.com/TheKingBucket001/txtoi/blob/main/LICENSE)
 [![ColorOS](https://img.shields.io/badge/ColorOS-16-1677FF.svg)](https://github.com/TheKingBucket001/txtoi)
 
-[下载模块](https://github.com/Xposed-Modules-Repo/io.github.selectionmenucontrol/releases/latest) · [查看源码](https://github.com/TheKingBucket001/txtoi) · [提交反馈](https://github.com/TheKingBucket001/txtoi/issues)
+[下载模块](https://github.com/TheKingBucket001/txtoi/releases/latest) · [源代码](https://github.com/TheKingBucket001/txtoi) · [问题反馈](https://github.com/TheKingBucket001/txtoi/issues)
 
 </div>
+
+> LSPosed 镜像仓库。GitHub 源库：[TheKingBucket001/txtoi](https://github.com/TheKingBucket001/txtoi)
 
 ---
 
 ## 项目简介
 
-长按文字时，菜单里常会出现一串用不到的“处理文本”项目。文本菜单控制将这些项目集中列出，勾选后即可从文字选择菜单中隐藏；想恢复时，一键还原即可。
+长按文字时，菜单里常会堆进一串用不到的“处理文本”项目。文本选择菜单控制把这些项目集中列出：勾选后隐藏，需要时再一键恢复。
 
 模块只处理文字选择菜单中的扩展项，不读取选中文字，也不修改系统 APK 或其他应用。
 
@@ -33,8 +37,8 @@
 
 ## 下载模块
 
-- [Latest Release](https://github.com/Xposed-Modules-Repo/io.github.selectionmenucontrol/releases/latest)
-- [全部版本](https://github.com/Xposed-Modules-Repo/io.github.selectionmenucontrol/releases)
+- [Latest Release](https://github.com/TheKingBucket001/txtoi/releases/latest)
+- [全部版本](https://github.com/TheKingBucket001/txtoi/releases)
 
 ## 使用说明
 
@@ -53,4 +57,8 @@
 | 主页 | [TheKingBucket001/txtoi](https://github.com/TheKingBucket001/txtoi) |
 | 源代码 | [TheKingBucket001/txtoi](https://github.com/TheKingBucket001/txtoi) |
 | 问题反馈 | [Issues](https://github.com/TheKingBucket001/txtoi/issues) |
-| 模块发行 | [Xposed Modules Repository](https://github.com/Xposed-Modules-Repo/io.github.selectionmenucontrol/releases) |
+| LSPosed 镜像 | [Xposed Modules Repository](https://github.com/Xposed-Modules-Repo/io.github.selectionmenucontrol) |
+
+## 许可证
+
+本项目采用 [GNU General Public License v3.0](https://github.com/TheKingBucket001/txtoi/blob/main/LICENSE)。
