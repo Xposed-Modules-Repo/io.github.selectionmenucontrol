@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheKingBucket001/txtoi/main/assets/icon.svg" width="96" alt="文本选择菜单控制图标" />
-
 # 文本选择菜单控制
 
 **ColorOS 16 的文字选择菜单控制模块**
